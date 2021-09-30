@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -std=c++11 -O2 -pthread -O3 -DNDEBUG   CMakeFiles/std_move.dir/src/std_move.cpp.o  -o std_move 

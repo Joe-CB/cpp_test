@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chenbiao/code/std_move/build",
+  "command": "/usr/bin/c++    -I/include  -fPIC -std=c++11 -O2 -pthread -O3 -DNDEBUG -fPIE   -o CMakeFiles/std_move.dir/src/std_move.cpp.o -c /home/chenbiao/code/std_move/src/std_move.cpp",
+  "file": "/home/chenbiao/code/std_move/src/std_move.cpp"
+}
+]
